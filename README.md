@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project is a Lua script for Roblox games that provides a personalized greeting message to the player (preferably in Kohls Admin House). The greeting includes the current weather in a specified city, a daily message (quote, compliment, or fun fact), and advice based on the weather condition. The script utilizes the Weather API to fetch real-time weather data and delivers a unique and engaging experience for players.
+This project is a Lua script for Roblox games that provides a personalized greeting message to the player (ONLY works in Kohls Admin House [https://www.roblox.com/games/112420803/Kohls-Admin-House-NBC-Updated]). The greeting includes the current weather in a specified city, a daily message (quote, compliment, or fun fact), and advice based on the weather condition. The script utilizes the Weather API to fetch real-time weather data and delivers a unique and engaging experience for players.
 
 ## Features
 
